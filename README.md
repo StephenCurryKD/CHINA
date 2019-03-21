@@ -1,2 +1,5 @@
 # CHINA
-代码仓库
+git status 
+git add .
+git commit -m "creat project"
+git push
